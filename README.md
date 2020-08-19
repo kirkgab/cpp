@@ -31,6 +31,8 @@ Note that don't overstress yourself with the pressure of the development environ
  
  Q2: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
    [Long Version](https://youtu.be/RGOj5yH7evk)
+   
+ Q3: How does Moodle Workshop (Peer Evaluation) work? A: [Moodle Instruction](https://docs.moodle.org/39/en/Using_Workshop)
 
 #### Week 1
 ---

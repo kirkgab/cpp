@@ -1,6 +1,7 @@
-# Let's learn C++ together!
+# C++ is not hard!
 
-References:
+
+### Course Materials:
 
 - [1] [Udemy Course: Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/)
 
@@ -11,3 +12,6 @@ References:
 - [4] [Learncpp.com](learncpp.com)
 
 
+### FAQ
+
+ Q1: How to write Markdown? A: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

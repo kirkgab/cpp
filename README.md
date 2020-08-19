@@ -11,6 +11,19 @@
 
 - [4] [Learncpp.com](learncpp.com)
 
+## Development Environment
+
+In this course, we will use either CodeLite or Visual Studio (Not Visual Studio Code). 
+
+- CodeLite Setup: [[1, Section 2]](https://www.udemy.com/course/beginning-c-plus-plus-programming/learn/lecture/18801420#overview)
+
+- Visual Studio  Setup: [Youtube Video](https://youtu.be/qeH9Xv_90KM)
+
+Note that don't overstress yourself with the pressure of the development environment setup. Even if it's not successfully setup, you can still program using online compilers like:
+
+- [Repl Online C++ Compiler](https://repl.it/languages/cpp) (You can save the code in this compiler, preferred)
+- [Programiz Online C++ Compiler](https://www.programiz.com/cpp-programming/online-compiler/) (You cannot save the code in this compiler)
+
 
 ## FAQ
 

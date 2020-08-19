@@ -1,2 +1,1 @@
-# cpp
-CPP Course for One Semester
+# Let's learn C++ together!

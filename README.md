@@ -44,7 +44,7 @@ Note that don't overstress yourself with the pressure of the development environ
 
 <dl>
   <dt> Watching List</dt>
-  <dd>[1, Section 1 - 3],  [Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)</dd>
+  <dd>[1, Section 1 - 3],  <a href="https://youtu.be/vLnPwxZdW4Y">Learn C++ in 4 hours</a> </dd>
   <dt>To-Do</dt>
   <dd>Assignment 0 (not counted for grade) </dd>
 </dl>
@@ -72,6 +72,7 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 ### Week 4
@@ -82,6 +83,7 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 ### Week 5
@@ -102,6 +104,7 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 #### Week 7
@@ -112,57 +115,73 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 ### Week 8
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd> [1, Section 14]  </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 ### Week 9
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd> [1, Section 15] </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 ### Week 10
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd> [1, Section 16] </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 ### Week 11
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd> [1, Section 17 - 18]  </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
 ### Week 12
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd> [1, Section 19]  </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+
 ---
 
+### Week 13
 
+---
+<dl>
+  <dt>Reading/Watching List</dt>
+  <dd> [1, Section 20]  </dd>
+  <dt>To-Do</dt>
+  <dd> </dd>
+</dl>
+
+---
 

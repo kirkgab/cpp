@@ -47,7 +47,9 @@ Note that don't overstress yourself with the pressure of the development environ
  
  Q5: What is a Bug Report? A: It's a report that you will write using Markdown language to self-reflect on the mistakes you have made in the assigned Programming Questions. The bug report template can be found [HERE](bug-report-template.md)
  
- Q6: What's the format of exams in this course? A: MCQ
+ Q6: How to submit weekly assignment? A: This question needs detailed explanation, and you can refer to the [Assignment Submission Guideline](assignment-submission-guideline.md)
+ 
+ Q6: What's the format of quizzes and exams in this course? A: MCQ
  
 ## Detailed Schedule
  

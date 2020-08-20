@@ -36,20 +36,28 @@ Note that don't overstress yourself with the pressure of the development environ
 
 ## FAQ
 
- Q1: How to write Markdown? A: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [MarkDown Crashcourse](https://youtu.be/HUBNt18RFbo). Don't force yourself to memorize the Markdown syntax here. You can always refer to the cheatsheet when you use it. 
+### Regarding Assignment and Submission
+
+Q1: What are in the weekly Assignment? A: 2 - 3 Programming Questions +  1 Bug Report
  
- Q2: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
+Q2: What is a Bug Report? A: It's a report that you will write using Markdown language to self-reflect on the mistakes you have made in the assigned Programming Questions. The bug report template can be found [HERE](bug-report-template.md)
+
+Q3: How to write Markdown? A: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [MarkDown Crashcourse](https://youtu.be/HUBNt18RFbo). Don't force yourself to memorize the Markdown syntax here. You can always refer to the cheatsheet when you use it. 
+
+Q4: How to submit weekly assignment? A: This question needs detailed explanation, and you can refer to the [Assignment Submission Guideline](assignment-submission-guideline.md)
+ 
+Q5: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
    [Long Version](https://youtu.be/RGOj5yH7evk)
    
- Q3: How does Moodle Workshop (Peer Evaluation) work? A: [Moodle Instruction](https://docs.moodle.org/39/en/Using_Workshop)
- 
- Q4: What are in the weekly Assignment? A: 2 - 3 Programming Questions +  1 Bug Report
- 
- Q5: What is a Bug Report? A: It's a report that you will write using Markdown language to self-reflect on the mistakes you have made in the assigned Programming Questions. The bug report template can be found [HERE](bug-report-template.md)
- 
- Q6: How to submit weekly assignment? A: This question needs detailed explanation, and you can refer to the [Assignment Submission Guideline](assignment-submission-guideline.md)
- 
- Q6: What's the format of quizzes and exams in this course? A: MCQ
+### Regarding Assignment Peer-Evaluation
+
+Q1: How does Moodle Workshop (Peer Evaluation) work? A: [Moodle Instruction](https://docs.moodle.org/39/en/Using_Workshop)
+
+Q2: Does my peer-evaluation contribute to my assignment grade? A: Yes. The peer-evaluation contribute to 20% of your assignment grade. I will explain this in the recorded lecture video. 
+
+### Regarding Quiz and Exams
+
+Q1: What's the format of quizzes and exams in this course? A: MCQ
  
 ## Detailed Schedule
  

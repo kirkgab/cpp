@@ -1,13 +1,25 @@
-#Bug 1
+# Bug 1
 
-The inoriginal original code that you code
+1. **The incorrect original code or code snippit that you wrote:**
 
-What bug does the original code have
+```
+code with bugs or code snippet with bug goes here
 
-What incorrect C++ understanding lead you to this incorrect code?
+```
 
-How to correct the bug?
+2. **What bug does the original code have?**
 
-The bug-free code is
+  
 
-What is the take-away message from this bug?
+3. **What misunderstanding of C++ concepts lead you to this incorrect code?**
+
+4. **How to correct the bug?**
+
+5. **The corresponding bug-free code or code snippet is:**
+
+```
+bug-free code or code snippet goes here
+
+```
+
+6. **What is the take-away message from this bug?**

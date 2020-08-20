@@ -58,7 +58,7 @@ C: Component
 | 1    | [1, S 1 - 3],[Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)| $1600                  |          |
 | 2    | [1, S 4 - 6]                                                     |                        |          |
 | 3    | [1, S 7, 8 and S 9 (C 76 - 81)]                                  |                        |          |
-| 4    | [1, S 9 [C 82 - the end of the S], S 10                          |                        |          |                          
+| 4    | [1, S 9 - 10 ]                                                   |                        |          |                          
 | 5    | [1, S 11]                                                        |                        |          |
 | 6    | [1, S 12]                                                        |                        |          |
 | 7    | [1, S 13]                                                        |                        |          |
@@ -69,104 +69,6 @@ C: Component
 | 12   | [1, S 19]                                                        |                        |          |
 | 13   | [1, S 20]                                                        |                        |          |
 
-### Week 4
 
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd>[1, Section 9 [Components 82 - the end of the section], Section 10]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-
-### Week 5
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 11]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-### Week 6
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 12]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-
-### Week 7
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 13]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-
-### Week 8
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 14]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-### Week 9
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 15] </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-### Week 10
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 16] </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-### Week 11
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 17 - 18]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-### Week 12
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 19]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-### Week 13
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd> [1, Section 20]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
 
 

@@ -49,37 +49,25 @@ Note that don't overstress yourself with the pressure of the development environ
  
 ## Detailed Schedule
  
-### Week 1
+S: Section
 
-...<dl>
-  <dt> Watching List</dt>
-  <dd>[1, Section 1 - 3],  <a href="https://youtu.be/vLnPwxZdW4Y">Learn C++ in 4 hours</a> </dd>
-  <dt>To-Do</dt>
-  <dd>Assignment 0 (not counted for grade) </dd>
-</dl>
-
-
-
-### Week 2
-
-...<dl>
-  <dt>Reading/Watching List</dt>
-  <dd>[1, Section 5 - 6]  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
-### Week 3
-
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd>[1, Section 7, 8 and Section 9 [Components 76 - 81]] </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
-
-
+C: Component
+ 
+| Week | Watching List                                                    | Complementary Materials|To-Do List|
+| -----|:----------------------------------------------------------------:| ----------------------:|:--------:|
+| 1    | [1, S 1 - 3],[Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)| $1600                  |          |
+| 2    | [1, S 4 - 6]                                                     |                        |          |
+| 3    | [1, S 7, 8 and S 9 (C 76 - 81)]                                  |                        |          |
+| 4    | [1, S 9 [C 82 - the end of the S], S 10                          |                        |          |                          
+| 5    | [1, S 11]                                                        |                        |          |
+| 6    | [1, S 12]                                                        |                        |          |
+| 7    | [1, S 13]                                                        |                        |          |
+| 8    | [1, S 14]                                                        |                        |          |
+| 9    | [1, S 15]                                                        |                        |          |
+| 10   | [1, S 16]                                                        |                        |          |
+| 11   | [1, S 17 - 18]                                                   |                        |          |
+| 12   | [1, S 19]                                                        |                        |          |
+| 13   | [1, S 20]                                                        |                        |          |
 
 ### Week 4
 

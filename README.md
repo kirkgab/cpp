@@ -36,7 +36,7 @@ Note that don't overstress yourself with the pressure of the development environ
 
 ## FAQ
 
- Q1: How to write Markdown? A: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ Q1: How to write Markdown? A: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [MarkDown Crashcourse](https://youtu.be/HUBNt18RFbo). Don't force yourself to memorize the Markdown syntax here. You can always refer to the cheatsheet when you use it. 
  
  Q2: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
    [Long Version](https://youtu.be/RGOj5yH7evk)

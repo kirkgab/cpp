@@ -1,4 +1,4 @@
-# C++ is not hard!
+# One-semester C++ Course
 
 Course Duration: 13 Weeks (10 hours needed every week on average)
 
@@ -55,7 +55,7 @@ C: Component
  
 | Week | Watching List                                                    | Complementary Materials|To-Do List|
 | -----|:----------------------------------------------------------------:| ----------------------:|:--------:|
-| 1    | [1, S 1 - 3],[Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)| $1600                  |          |
+| 1    | [1, S 1 - 3],[Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)|                        |          |
 | 2    | [1, S 4 - 6]                                                     |                        |          |
 | 3    | [1, S 7, 8 and S 9 (C 76 - 81)]                                  |                        |          |
 | 4    | [1, S 9 - 10 ]                                                   |                        |          |                          

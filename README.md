@@ -51,7 +51,7 @@ Note that don't overstress yourself with the pressure of the development environ
  
 ### Week 1
 
-<dl>
+...<dl>
   <dt> Watching List</dt>
   <dd>[1, Section 1 - 3],  <a href="https://youtu.be/vLnPwxZdW4Y">Learn C++ in 4 hours</a> </dd>
   <dt>To-Do</dt>
@@ -62,7 +62,7 @@ Note that don't overstress yourself with the pressure of the development environ
 
 ### Week 2
 
-<dl>
+...<dl>
   <dt>Reading/Watching List</dt>
   <dd>[1, Section 5 - 6]  </dd>
   <dt>To-Do</dt>

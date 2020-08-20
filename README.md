@@ -1,5 +1,6 @@
 # C++ is not hard!
 
+Course Duration: 13 Weeks (10 hours needed every week on average)
 
 ## Course Materials:
 
@@ -33,68 +34,87 @@ Note that don't overstress yourself with the pressure of the development environ
    [Long Version](https://youtu.be/RGOj5yH7evk)
    
  Q3: How does Moodle Workshop (Peer Evaluation) work? A: [Moodle Instruction](https://docs.moodle.org/39/en/Using_Workshop)
-
-#### Week 1
+ 
+ Q4: What are in the weekly Assignment? A: 2 - 3 Programming Questions +  1 Bug Report
+ 
+ Q5: What is a Bug Report? A: It's a report that you will write using Markdown language to self-reflect on the mistakes you have made in the assigned 2 - 3 Programming Questions. A Bug Report template will be provided. 
+ 
+### Week 1
 ---
+
 <dl>
-  <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dt> Watching List</dt>
+  <dd>[1, Section 1 - 3],  [Learn C++ in 4 hours](https://youtu.be/vLnPwxZdW4Y)</dd>
   <dt>To-Do</dt>
-  <dd> </dd>
+  <dd>Assignment 0 (not counted for grade) </dd>
 </dl>
 
-#### Week 2
----
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
+***
 
-#### Week 3
----
-<dl>
-  <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
-  <dt>To-Do</dt>
-  <dd> </dd>
-</dl>
 
-#### Week 4
+### Week 2
 ---
+
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd>[1, Section 5 - 6]  </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
 
-#### Week 5
+---
+
+### Week 3
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd>[1, Section 7, 8 and Section 9 [Components 76 - 81]] </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
-#### Week 6
+---
+
+### Week 4
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd>[1, Section 9 [Components 82 - the end of the section], Section 10]  </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+---
+
+### Week 5
+---
+<dl>
+  <dt>Reading/Watching List</dt>
+  <dd> [1, Section 11]  </dd>
+  <dt>To-Do</dt>
+  <dd> </dd>
+</dl>
+---
+
+### Week 6
+---
+<dl>
+  <dt>Reading/Watching List</dt>
+  <dd> [1, Section 12]  </dd>
+  <dt>To-Do</dt>
+  <dd> </dd>
+</dl>
+---
+
 #### Week 7
 ---
 <dl>
   <dt>Reading/Watching List</dt>
-  <dd>.  </dd>
+  <dd> [1, Section 13]  </dd>
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
-#### Week 8
+---
+
+### Week 8
 ---
 <dl>
   <dt>Reading/Watching List</dt>
@@ -102,7 +122,9 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
-#### Week 9
+---
+
+### Week 9
 ---
 <dl>
   <dt>Reading/Watching List</dt>
@@ -110,7 +132,9 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
-#### Week 10
+---
+
+### Week 10
 ---
 <dl>
   <dt>Reading/Watching List</dt>
@@ -118,7 +142,9 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
-#### Week 11
+---
+
+### Week 11
 ---
 <dl>
   <dt>Reading/Watching List</dt>
@@ -126,7 +152,9 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
-#### Week 12
+---
+
+### Week 12
 ---
 <dl>
   <dt>Reading/Watching List</dt>
@@ -134,5 +162,7 @@ Note that don't overstress yourself with the pressure of the development environ
   <dt>To-Do</dt>
   <dd> </dd>
 </dl>
+---
+
 
 

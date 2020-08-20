@@ -28,8 +28,8 @@ In this course, we will use either CodeLite or Visual Studio (Not Visual Studio 
 
 Note that don't overstress yourself with the pressure of the development environment setup. Even if it's not successfully setup, you can still program using online compilers like:
 
-- [Repl Online C++ Compiler](https://repl.it/languages/cpp) (You can save the code in this compiler, preferred)
-- [Programiz Online C++ Compiler](https://www.programiz.com/cpp-programming/online-compiler/) (You cannot save the code in this compiler)
+- [Repl Online C++ Compiler](https://repl.it/languages/cpp) (Code can be saved once you register for a free account, **recommended**)
+- [Programiz Online C++ Compiler](https://www.programiz.com/cpp-programming/online-compiler/) (Code cannot be saved)
 
 ---
 

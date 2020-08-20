@@ -45,7 +45,9 @@ Note that don't overstress yourself with the pressure of the development environ
  
  Q4: What are in the weekly Assignment? A: 2 - 3 Programming Questions +  1 Bug Report
  
- Q5: What is a Bug Report? A: It's a report that you will write using Markdown language to self-reflect on the mistakes you have made in the assigned 2 - 3 Programming Questions. A Bug Report template will be provided. 
+ Q5: What is a Bug Report? A: It's a report that you will write using Markdown language to self-reflect on the mistakes you have made in the assigned Programming Questions. The bug report template can be found [HERE](bug-report-template.md)
+ 
+ Q6: What's the format of exams in this course? A: MCQ
  
 ## Detailed Schedule
  

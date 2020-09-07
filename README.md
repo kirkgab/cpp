@@ -6,10 +6,12 @@ The course will be Asynchronous. I will upload videos every week.
 
 For most of the weeks, students need to complete weekly:
 
-- Udemy video sections (~ 4 hours)
-- Video uploaded the instructor (~ 1 hour)
+- Udemy video sections (~ 4 hours) 
+- Video uploaded the instructor (~ 1 hour)7
+- Practise Programming along with video watching (~ 2 hours)
 - Assignment (~ 2 hours)
 - Peer Review (~ 15 mins)
+- Quiz (~ 10 mins)
 
 Note: Most videos can be watched at 1.5X speed
 

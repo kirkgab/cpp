@@ -44,7 +44,7 @@ Q2: What is a Bug Report? A: It's a report that you will write using Markdown la
 
 Q3: How to write Markdown? A: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) or [MarkDown Crashcourse](https://youtu.be/HUBNt18RFbo). Don't force yourself to memorize the Markdown syntax here. You can always refer to the cheatsheet when you use it. 
 
-Q4: How to submit weekly assignment? A: This question needs detailed explanation, and you can refer to the [Assignment Submission Guideline](assignment-submission-guideline.md)
+Q4: How to submit weekly assignment? A: This question needs detailed explanation, and I will make a separate video on this. 
  
 Q5: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; &nbsp;
    [Long Version](https://youtu.be/RGOj5yH7evk)

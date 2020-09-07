@@ -1,4 +1,4 @@
-# One-semester C++ Course
+# Intro to C++
 
 Course Duration: 13 Weeks (10 hours needed every week on average)
 

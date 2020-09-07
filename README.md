@@ -51,7 +51,7 @@ Q5: How to use Github? A:  [Short Version](https://youtu.be/iv8rSLsi1xo) &nbsp; 
    
 ### Regarding Assignment Peer-Evaluation
 
-Q1: How does Moodle Workshop (Peer Evaluation) work? A: [Moodle Instruction](https://docs.moodle.org/39/en/Using_Workshop)
+Q1: How does Moodle Workshop (Peer Evaluation) work? A: [Moodle Instruction](https://docs.moodle.org/39/en/Using_Workshop) &nbsp; &nbsp; I will also make a short video about this. 
 
 Q2: Does my peer-evaluation contribute to my assignment grade? A: Yes. The peer-evaluation contribute to 20% of your assignment grade. I will explain this in the recorded lecture video. 
 

@@ -84,9 +84,9 @@ Please refer to the course presentation for more requirements.
 
 ## Detailed Schedule
  
-S: Section
+S: Section  &nbsp; C: Component
 
-C: Component
+For example, [1, S 7, 8 and S 9 (C 76 - 81)]    represents Section 7,8 and 9 (only Components 76-81 of Section 9) of Course Material [1] (see above)
  
 | Week | Watching List                                                    | Complementary Materials|To-Do List|
 | -----|:----------------------------------------------------------------:| ----------------------:|:--------:|

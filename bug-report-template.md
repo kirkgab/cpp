@@ -2,7 +2,7 @@
 
 1. **The incorrect original code or code snippit that you wrote:**
 
-```
+``` cpp
 //code with bugs or code snippet with bug goes here
 
 //sample code

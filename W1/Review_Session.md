@@ -134,4 +134,54 @@ would be best?
 data type would be best?
 - Which of the following literals uses more memory? 20 or 20L
 ![alt text](./img/intrange.PNG "Logo Title Text 1")
+![alt text](./img/floatrange.PNG "Logo Title Text 1")
+![alt text](./img/scientificnotation.PNG "Logo Title Text 1")
 
+Q8. 
+Write a program that defines an integer variable named age and a float variable named weight . Store your age and weight, as literals, in the variables.
+The program should display these values on the screen in a manner similar to the following:
+```
+My age is 26 and my weight is 180 pounds.
+```
+(Feel free to lie to the computer about your age and your weight, it’ll never know!)
+
+Q9. Is the following assignment statement valid or invalid? If it is invalid, why?
+```cpp
+72 = amount;
+```
+
+Q10. How would you consolidate the following definitions into one statement?
+``` cpp
+int x = 7;
+int y = 16;
+int z = 28;
+```
+
+Q11. What is wrong with the following program? How would you correct it?
+``` cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+number = 62.7;
+double number;
+cout << number << endl;
+return 0;
+}
+``
+Q12. Is the following an example of integer division or floating-point division? What value will be stored in portion ?
+``` cpp
+portion = 70 / 3;
+```
+
+Q13. Convert the following pseudocode to C++ code. Be sure to define the appropriate variables.
+- Store 20 in the speed variable.
+- Store 10 in the time variable.
+- Multiply speed by time and store the result in the distance variable.
+- Display the contents of the distance variable.
+
+Q14. Convert the following pseudocode to C++ code. Be sure to define the appropriate variables.
+- Store 172.5 in the force variable.
+- Store 27.5 in the area variable.
+- Divide area by force and store the result in the pressure variable.
+- Display the contents of the pressure variable.

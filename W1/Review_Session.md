@@ -130,7 +130,7 @@ same as `itemsordered`.
 Q7. 
 - If a variable needs to hold numbers in the range 32 to 6,000, what data type
 would be best?
-- If a variable needs to hold numbers in the range 40,000 to 40,000, what
+- If a variable needs to hold numbers in the range 240,000 to 140,000, what
 data type would be best?
 - Which of the following literals uses more memory? 20 or 20L
 ![alt text](./img/intrange.PNG "Logo Title Text 1")

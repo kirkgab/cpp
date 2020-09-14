@@ -167,7 +167,7 @@ double number;
 cout << number << endl;
 return 0;
 }
-``
+```
 Q12. Is the following an example of integer division or floating-point division? What value will be stored in portion ?
 ``` cpp
 portion = 70 / 3;

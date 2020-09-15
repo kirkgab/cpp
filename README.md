@@ -73,7 +73,6 @@ Q2: Does my peer-evaluation contribute to my assignment grade? A: Yes. The peer-
 Q1: What's the format of quizzes and exams in this course? A: MCQ
 
 ### Regarding Emails
-### Regarding Emails
 For general questions, please post it in the Issues section so that it could benefit everyone. 
 If you want to email the instructor regarding more personal questions, please make sure you use the **school email** and follow the format below:
 

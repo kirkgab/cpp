@@ -73,14 +73,25 @@ Q2: Does my peer-evaluation contribute to my assignment grade? A: Yes. The peer-
 Q1: What's the format of quizzes and exams in this course? A: MCQ
 
 ### Regarding Emails
+### Regarding Emails
 For general questions, please post it in the Issues section so that it could benefit everyone. 
-If you want to email the instructor regarding more personal questions, please follow the format below:
+If you want to email the instructor regarding more personal questions, please make sure you use the **school email** and follow the format below:
 
 - Course and Section No.:
 - Student Name and ID:
 - Question:
 
-Please refer to the course presentation for more requirements. 
+When you ask technical issues, please provide more details when you post the questions. A bad example is that
+
+"XXX does not work, please help". 
+
+You can also insert screenshots or screen recordings when you post an issue on the discussion forums, the screenshots and screen recordings will  make it much easier for others to quickly locate and resolve the issue for you.
+
+To attach screenshots or images in issue, all you need to do is to drag and release. You can follow the instruction here:
+
+https://docs.github.com/en/github/managing-your-work-on-github/file-attachments-on-issues-and-pull-requests
+
+For screen recording, I recommend you to upload to a cloud service like google drive or one drive or even youtube, and insert the link to the issue. 
 
 ## Detailed Schedule
  
